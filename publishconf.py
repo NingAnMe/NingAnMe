@@ -22,3 +22,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+DEFAULT_METADATA = {
+    'status': 'draft',  # 默认的文章状态为草稿
+}
