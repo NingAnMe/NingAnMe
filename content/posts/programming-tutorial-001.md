@@ -1,6 +1,6 @@
 Title: 编程入门手册-前期准备
 Date: 2018-03-08 18:02
-Category: Python
+Category: 编程入门
 Tags: Python, 编程, 手册
 Slug: my-super-post
 Authors: NingAnMe
